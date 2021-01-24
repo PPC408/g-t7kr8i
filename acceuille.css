@@ -1,0 +1,60 @@
+.one{
+    border-style: double;
+    color: darkblue;
+    border-color: rgb(255, 0, 0) purple rgb(8, 253, 0) yellow;
+    border-width: 6px;
+}
+body{
+    background-image: url(fond.jpg);
+}
+.btnip{
+    background-color: transparent;
+    font-size: large;
+    width: 80px;
+}
+.IPS{
+    color: yellow;
+    font-size: 27.8px;
+}
+.ips{
+    color: yellow;
+    font-size: 27.8px;
+}
+.span{
+    color: orangered;
+}
+.btn2{
+   background-color: transparent;
+   color: red;
+   font-weight: 700;
+   font-size: 40px;
+   width: 130px;
+}
+nav.menu-nav ul li.btn{
+    list-style-type: none;
+    display: inline-block;
+
+}
+nav.menu-nav ul li.btn a{
+    color: rgb(255, 0, 212);
+    background-color:rgb(68, 0, 255);
+    text-decoration: none ;
+    font-size: 20px;
+    padding: 8.5px;
+    margin: 100px;
+}
+nav.menu-nav ul li.btn:hover a{
+    color:  rgb(68, 0, 255);
+    background-color: rgb(255, 0, 212);
+    transition: 0.3s all;
+}
+.menu-nav{
+    background-color: rgba(47, 0, 255, 0.664);
+    border-color: blueviolet;
+    border-width: 7px;
+    border-style: solid;
+    margin: -10px;
+}
+.gr{
+    font-size: x-large;
+}

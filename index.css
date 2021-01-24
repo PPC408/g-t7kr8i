@@ -1,0 +1,37 @@
+nav.menu-nav ul li.btn{
+    list-style-type: none;
+    display: inline-block;
+
+}
+nav.menu-nav ul li.btn a{
+    color: rgb(255, 0, 212);
+    background-color:rgb(68, 0, 255);
+    text-decoration: none ;
+    font-size: 20px;
+    padding: 8.5px;
+    margin: 100px;
+}
+nav.menu-nav ul li.btn:hover a{
+    color:  rgb(68, 0, 255);
+    background-color: rgb(255, 0, 212);
+    transition: 0.3s all;
+}
+.menu-nav{
+    background-color: rgba(47, 0, 255, 0.664);
+    border-color: blueviolet;
+    border-width: 7px;
+    border-style: solid;
+    margin: -10px;
+}
+h2{
+    color: rgb(251, 255, 0);
+}
+p1{
+    font-size: 40px;
+    margin: 50px;
+    padding: 50px;
+    color: rgb(255, 0, 0);
+}
+body{
+    background-image:url(fond.jpg)
+}
